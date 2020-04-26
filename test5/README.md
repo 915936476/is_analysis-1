@@ -72,6 +72,7 @@
 ## 2. 界面设计
 ## 2.1. 读者登陆界面设计
 https://Chenjuemin.github.io/is_analysis_pages/登陆页面.html</br>
+![.](1.png)
 - 用例图参见：登陆用例
 - 类图参见：管理员类，读者类
 - 顺序图参见：login()
@@ -111,6 +112,7 @@ https://Chenjuemin.github.io/is_analysis_pages/登陆页面.html</br>
 
 ## 2.2. 读者界面设计
 https://Chenjuemin.github.io/is_analysis_pages/读者界面.html</br>
+![.](2.png)
 - 类图参见：读者类，图书类
 - 顺序图参见：所有读者顺序图起始，读者借阅顺序图
 - API接口如下：
@@ -154,6 +156,7 @@ https://Chenjuemin.github.io/is_analysis_pages/读者界面.html</br>
 
 ## 2.3.书籍预约界面设计
 https://chenjuemin.github.io/is_analysis_pages/借书界面.html</br>
+![.](3.png)
 - 用例图参见：书籍预约用例
 - 类图参见：读者类，图书类
 - 顺序图参见：预约书籍
